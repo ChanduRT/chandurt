@@ -50,7 +50,7 @@ A Python-based tool that captures and analyzes keystrokes to generate behavioral
   - Logs keystrokes in real-time
   - Generates frequency maps and timing patterns
   - Exports visual reports for forensic or productivity analysis
-- 🛠️ **Stack**: Python, Pandas, Matplotlib, Tkinter (GUI optional)
+- 🛠️ **Stack**: Python 
 
 ---
 
