@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m driven by a passion for  cybersecurity practicing , 
 
 ## 🚀 Projects
 
-### 🌱 AIGLE AIR – *AI-Powered Algae-Based Air Purifier*
+### 🌱 AIGLE AIR – * Algae-Based Air Purifier*
 A sustainable air purification system that uses microalgae to convert CO₂ into oxygen. It monitors environmental parameters using IoT sensors and adjusts algae behavior using AI-driven optimization.
 - 📌 **Purpose**: Combat urban air pollution with a sustainable, biological solution
 - 💡 **Features**:
@@ -64,8 +64,7 @@ A Python-based tool that captures and analyzes keystrokes to generate behavioral
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/chandurt18)
-- 🌍 Portfolio: *Coming Soon*
-- 📧 Email: *chandu.yourmail@example.com*
+- 📧 Email: *1by22is043@bmsit.in*
 
 ---
 
