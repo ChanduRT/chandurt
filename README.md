@@ -15,7 +15,7 @@ A sustainable air purification system that uses microalgae to convert CO₂ into
   - pH, CO₂, temperature & light sensors for environmental monitoring
   - AI model to control algae exposure and maximize O₂ generation
   - Predictive maintenance alerts using anomaly detection
-- 🛠️ **Stack**: Python, Django, IoT Sensors, AI/ML Models, MQTT, SQLite
+- 🛠️ **Stack**: Python, Flask, IoT Sensors, AI/ML Models, MQTT, SQLite
 
 ---
 
